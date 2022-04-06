@@ -1,16 +1,23 @@
 [
 {
-  "banimg":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
-  "banlink":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
-  "bansrn":"web",
-  "bantitle":"Test",
-  "mainpath":""
+  "banimg1":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "banlink1":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "bansrn1":"web",
+  "bantitle1":"Test",
+  "mainpath1":""
 },
 {
-  "banimg":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
-  "banlink":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
-  "bansrn":"web",
-  "bantitle":"Test",
-  "mainpath":""
+  "banimg2":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "banlink2":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "bansrn2":"web",
+  "bantitle2":"Test",
+  "mainpath2":""
+},
+  {
+  "banimg3":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "banlink3":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+  "bansrn3":"web",
+  "bantitle3":"Test",
+  "mainpath3":""
 }
 ]
