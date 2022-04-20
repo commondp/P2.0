@@ -1,15 +1,15 @@
 [
   {
     "name":"Item1",
-    "img":"https://i.ibb.co/2YHDnS5/Ei-QQX-RVo-AE7x-Hy.jpg",
+    "img":"https://i.ibb.co/D8QmnBF/IPL-2020-s-1.webp",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"DC vs PBKS"
+    "srn":"MI vs CSK"
   },
   {
     "name":"Item2",
     "img":"https://banksiafdn.com/wp-content/uploads/2019/10/placeholde-image.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"MI vs CSK"
+    "srn":"DC vs RR"
   },
   {
     "name":"Item3",
