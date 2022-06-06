@@ -3,37 +3,37 @@
     "name":"Item1",
     "img":"https://i.ibb.co/hWWxjVJ/DC-vs-SRH-Match-Prediction-1260x657.webp",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"DC vs SRH"
+    "srn":"SL vs AUS"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/LnxvCzD/KKRvGT.webp",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"KKR vs GT"
+    "srn":"MID vs HAM"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/p2Fr5KB/IPL-2020-Match-3-SRH-vs-RCB-Match-Prediction-Probable-Playing-XI-and-Who-Will-Win.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"RCB vs SRH"
+    "srn":"LEI vs LAN"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/g70sZ9m/default-thumbnail.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"UGA W vs ZIM W"
+    "srn":"NOR vs DER"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/g70sZ9m/default-thumbnail.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"NAM W vs ZIM W"
+    "srn":"GLA vs GLO"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/g70sZ9m/default-thumbnail.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
-    "srn":"NAM vs UGA W"
+    "srn":"ESS vs KEN"
   }
   
 ]
