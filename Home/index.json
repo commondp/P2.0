@@ -9,31 +9,31 @@
     "name":"Item2",
     "img":"https://i.ibb.co/CBKYw4w/Vitality-Blast-Logo.png",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"MID vs HAM"
+    "srn":"PAK vs WI"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/CBKYw4w/Vitality-Blast-Logo.png",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"LEI vs LAN"
+    "srn":"IRE W vs SA W"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/CBKYw4w/Vitality-Blast-Logo.png",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"NOR vs DER"
+    "srn":"YOR vs LAN"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/CBKYw4w/Vitality-Blast-Logo.png",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"GLA vs GLO"
+    "srn":"DUR vs WAR"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/CBKYw4w/Vitality-Blast-Logo.png",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
-    "srn":"ESS vs KEN"
+    "srn":"SUR vs SUS"
   }
   
 ]
