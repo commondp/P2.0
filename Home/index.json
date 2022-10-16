@@ -3,13 +3,13 @@
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"IND vs RSA"
+    "srn":"WI vs SCO"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"PAK W vs TH W"
+    "srn":"ZIM vs IRE"
   },
   {
     "name":"Item3",
