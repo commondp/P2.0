@@ -3,13 +3,13 @@
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"AUS vs SL"
+    "srn":"ENG vs IRE"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"NK vs OTG"
+    "srn":"NZ vs AFG"
   },
   {
     "name":"Item3",
