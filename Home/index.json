@@ -3,19 +3,19 @@
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"AFG vs IRE"
+    "srn":"BAN vs ZIM"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"ENG vs AUS"
+    "srn":"PAK vs NED"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"WAR vs TIT"
+    "srn":"IND vs RSA"
   },
   {
     "name":"Item4",
