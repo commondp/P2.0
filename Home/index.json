@@ -15,25 +15,25 @@
     "name":"Item3",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"SS vs ST"
+    "srn":"NK vs AUC"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"PR vs MI"
+    "srn":"SEC vs DSG"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"ZW vs IL"
+    "srn":"PS vs MR"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
-    "srn":"DC vs SW"
+    "srn":"DC vs MIE"
   }
   
 ]
