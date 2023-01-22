@@ -3,37 +3,37 @@
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"IND W vs SL W"
+    "srn":"GG vs SW"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"DV vs GG"
+    "srn":"ZW vs IL"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"NK vs AUC"
+    "srn":"IND W vs WI W"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"SEC vs DSG"
+    "srn":"CC vs RR"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"PS vs MR"
+    "srn":"PAK W vs IL W"
   },
   {
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
-    "srn":"DC vs MIE"
+    "srn":"HH vs SS"
   }
   
 ]
