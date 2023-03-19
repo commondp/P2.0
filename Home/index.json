@@ -9,28 +9,28 @@
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"DSG vs MIC"
+    "srn":"GG vs UW"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"AUK vs CAN"
+    "srn":"MI vs DC"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"SS vs BH"
+    "srn":"BAN vs IRE"
   },
   {
-    "name":"Item1",
+    "name":"Item5",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"AA vs NK"
+    "srn":"WG vs AL"
   },
   {
-    "name":"Item1",
+    "name":"Item6",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
     "srn":"DV vs MIE"
