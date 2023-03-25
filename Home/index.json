@@ -3,37 +3,37 @@
     "name":"Item1",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl.json",
-    "srn":"AUS vs IND"
+    "srn":"RSA vs WI"
   },
   {
     "name":"Item2",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ipl2",
-    "srn":"GG vs UW"
+    "srn":"NAM vs USA"
   },
   {
     "name":"Item3",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/ORANGE CAP",
-    "srn":"MI vs DC"
+    "srn":"RSA vs WI"
   },
   {
     "name":"Item4",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH4",
-    "srn":"BAN vs IRE"
+    "srn":"AFG vs PAK"
   },
   {
     "name":"Item5",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH5",
-    "srn":"WG vs AL"
+    "srn":"DC vs MI"
   },
   {
     "name":"Item6",
     "img":"https://i.ibb.co/5LFvqmw/images.jpg",
     "path":"https://commondp.github.io/P2.0/path/MATCH6",
-    "srn":"DV vs MIE"
+    "srn":"GT vs CSK"
   }
   
 ]
